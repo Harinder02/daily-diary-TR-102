@@ -65,3 +65,7 @@ DAY-8(14 JUNE 2024)
  DAY-10(17 JUNE 2024)
 
     a) Perform Price Tempering using Burp suite
+    
+    DAY-11(18 JUNE 2024)
+
+    A)- starting lab of sql injection on tryhackme
