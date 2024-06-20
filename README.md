@@ -69,3 +69,17 @@ DAY-8(14 JUNE 2024)
     DAY-11(18 JUNE 2024)
 
     A)- starting lab of sql injection on tryhackme
+ DAY-11(19 JUNE 2024)
+
+ 
+ A)- know about ethical hacking
+ B)-6 types of hackers-
+ *black hat hacker
+ *white hat hacker
+ *grey hat hacker
+ *red hat hacker
+ *blue hat hacker
+ *green hat hacker
+ C)- know about dark web
+ D)-steps of ethical hacking and penidration testing
+ E)- complete lab of carrer of cyber security on tryhackme
