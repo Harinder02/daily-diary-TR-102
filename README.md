@@ -1,6 +1,6 @@
 # Daily-Diary_TR-102
 
-DAY-1(6 JUNE 2024)
+(6 JUNE 2024)
     
     a) Overview of the modules that will be covered in the training.
     
@@ -10,7 +10,7 @@ DAY-1(6 JUNE 2024)
     
     d) Kali Linux Installation
 
-DAY-2(7 JUNE 2024)
+(7 JUNE 2024)
    
     a) Introduction
    
@@ -18,7 +18,7 @@ DAY-2(7 JUNE 2024)
    
     c) TryHackMe Lab1
 
-DAY-3(8 JUNE 2024)
+(8 JUNE 2024)
   
     a) Linux Fundamentals
   
@@ -26,13 +26,13 @@ DAY-3(8 JUNE 2024)
   
     c) Breifly Explain the DOS attack(XERXES)
 
-DAY-4(10 JUNE 2024)
+(10 JUNE 2024)
  
     a) N-Map Overview
   
     b) N-Map TryHackMe Lab
 
-DAY-5(11 JUNE 2024)
+(11 JUNE 2024)
   
     a) NMap Lab
   
@@ -40,7 +40,7 @@ DAY-5(11 JUNE 2024)
   
     c) Fundamental of Networking
 
-DAY-6(12 JUNE 2024)
+(12 JUNE 2024)
      
     a) TryHackMe LAB- Cryptography for Dummies & Crack the Hash
    
@@ -48,13 +48,13 @@ DAY-6(12 JUNE 2024)
     
     c) Hack_Camera Tool
 
-DAY-7(13 JUNE 2024)
+(13 JUNE 2024)
 
     a) Perform DOS Attack (XERXES TOOL)
     
     b) Erisphisher Tool
 
-DAY-8(14 JUNE 2024)
+(14 JUNE 2024)
 
     a) Explain how to perform Price tempering using Burp suite 
 
@@ -62,14 +62,14 @@ DAY-8(14 JUNE 2024)
        
     Revision
    
- DAY-10(17 JUNE 2024)
+ (17 JUNE 2024)
 
     a) Perform Price Tempering using Burp suite
     
     DAY-11(18 JUNE 2024)
 
     A)- starting lab of sql injection on tryhackme
- DAY-11(19 JUNE 2024)
+ (19 JUNE 2024)
 
  
  A)- know about ethical hacking
@@ -83,3 +83,11 @@ DAY-8(14 JUNE 2024)
  C)- know about dark web
  D)-steps of ethical hacking and penidration testing
  E)- complete lab of carrer of cyber security on tryhackme
+
+( 20 june 2024)
+ a)- networking fundamentals
+ b)-information gathering
+
+ (21 june 2024)
+ a)-show the working of wifi attack
+ b)-show the working of bd foods
