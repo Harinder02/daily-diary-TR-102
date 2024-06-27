@@ -95,3 +95,15 @@
  (22 june 2024)
  a)complete the lab of crash the flag on tryhackme
  b)dos attack for wifi hacking
+
+ (24 june 2024)
+ a)man in middle attack
+ b)previous topic revision
+
+ (25 june 2024)
+ a)burp suit report gennration
+ b)camphish tool
+
+ (26 june 2024)
+ a)burpsuit report on gndec website
+ b) linux file system analysis lab
