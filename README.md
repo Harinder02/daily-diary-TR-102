@@ -107,3 +107,15 @@
  (26 june 2024)
  a)burpsuit report on gndec website
  b) linux file system analysis lab
+
+ (28 june 2024)
+ a)ohsint lab
+ b)osint explanation
+
+ (2 july 2024)
+ a) explanation of sql injection
+ b) perform sql injection on bdfoods website
+ c) sql injection lab
+
+ (4 july 2024)
+ a) online revision class
